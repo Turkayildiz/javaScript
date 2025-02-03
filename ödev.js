@@ -6,6 +6,7 @@ var sınıffinal =[65,78,95,85,98,75,45,25,15,39,65,17,98,25,34,65,18,85,79,82,9
 
 sayac=0;
 
+
 console.log('for ile dongu');
 for (let index = 0; index < sınıfad.length; index++) {
    
